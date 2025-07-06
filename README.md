@@ -35,6 +35,11 @@ brew install apktool go
 
 ```bash
 git clone https://github.com/ctkqiang/flutter_sec.git
+
+或
+
+git clone https://gitcode.com/ctkqiang_sr/flutter_sec.git
+
 cd flutter_sec
 ```
 
